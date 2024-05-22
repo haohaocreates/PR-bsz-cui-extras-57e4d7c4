@@ -1,0 +1,14 @@
+[project]
+name = "bsz-cui-extras"
+description = "This contains all-in-one 'principled' nodes for T2I, I2I, refining, and scaling. Additionally it has many tools for directly manipulating the color of latents, high res fix math, and scripted image post-processing."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/Beinsezii/bsz-cui-extras"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "bsz-cui-extras"
+Icon = ""
